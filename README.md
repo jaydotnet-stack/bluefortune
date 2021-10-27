@@ -1,2 +1,2 @@
 # bluefortune
-Construction, Procurement, Human Resource Development
+Construction, Procurement, Human Resource Development, ICT Development
